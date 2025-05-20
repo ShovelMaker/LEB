@@ -1,0 +1,9 @@
+Flask
+requests
+selenium
+webdriver-manager
+beautifulsoup4
+openai
+markdown
+weasyprint
+PyQt5
