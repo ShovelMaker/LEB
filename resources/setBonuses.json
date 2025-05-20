@@ -1,0 +1,703 @@
+[
+    {
+        "mods": [],
+        "setID": 0,
+        "tooltipDescriptions": [],
+        "tooltipEntries": []
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": true,
+                "property": 69,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 288,
+                "type": 0,
+                "value": 0.3
+            },
+            {
+                "hideInTooltip": true,
+                "property": 1,
+                "setRequirement": 2,
+                "specialTag": 39,
+                "tags": 288,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": false,
+                "property": 43,
+                "setRequirement": 3,
+                "specialTag": 39,
+                "tags": 0,
+                "type": 0,
+                "value": 0.3
+            }
+        ],
+        "setID": 1,
+        "tooltipDescriptions": [
+            {
+                "altText": "",
+                "description": "+30% Mana Efficiency with Necrotic Spells",
+                "setMod": false,
+                "setRequirement": 3
+            },
+            {
+                "altText": "Damned deals necrotic damage over time and reduces health regen by 20%. An enemy can have multiple stacks of Damned at once.",
+                "description": "+100% Chance to apply Damned on hit with Necrotic Spells",
+                "setMod": false,
+                "setRequirement": 2
+            }
+        ],
+        "tooltipEntries": [
+            {
+                "modDisplay": 129
+            },
+            {
+                "modDisplay": 2
+            },
+            {
+                "modDisplay": 128
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 3,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 128,
+                "type": 1,
+                "value": 0.13
+            },
+            {
+                "hideInTooltip": true,
+                "property": 88,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 264,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": true,
+                "property": 88,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 258,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": true,
+                "property": 88,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 260,
+                "type": 0,
+                "value": 1
+            }
+        ],
+        "setID": 2,
+        "tooltipDescriptions": [
+            {
+                "altText": "",
+                "description": "+1 to Fire Spells\n+1 to Lightning Spells\n+1 to Cold Spells",
+                "setMod": false,
+                "setRequirement": 3
+            }
+        ],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            },
+            {
+                "modDisplay": 128
+            }
+        ]
+    },
+    {
+        "mods": [],
+        "setID": 3,
+        "tooltipDescriptions": [],
+        "tooltipEntries": []
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": true,
+                "property": 88,
+                "setRequirement": 2,
+                "specialTag": 1,
+                "tags": 218,
+                "type": 0,
+                "value": 3
+            },
+            {
+                "hideInTooltip": false,
+                "property": 58,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 220,
+                "type": 0,
+                "value": 3
+            },
+            {
+                "hideInTooltip": true,
+                "property": 88,
+                "setRequirement": 2,
+                "specialTag": 1,
+                "tags": 354,
+                "type": 0,
+                "value": 3
+            }
+        ],
+        "setID": 4,
+        "tooltipDescriptions": [
+            {
+                "altText": "",
+                "description": "+3 to Forge Strike\n+3 to Smelter's Wrath",
+                "setMod": false,
+                "setRequirement": 2
+            }
+        ],
+        "tooltipEntries": [
+            {
+                "modDisplay": 128
+            },
+            {
+                "modDisplay": 1
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 115,
+                "setRequirement": 3,
+                "specialTag": 9,
+                "tags": 16,
+                "type": 2,
+                "value": 0.03
+            },
+            {
+                "hideInTooltip": false,
+                "property": 43,
+                "setRequirement": 2,
+                "specialTag": 9,
+                "tags": 0,
+                "type": 0,
+                "value": 0.5
+            }
+        ],
+        "setID": 5,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 1
+            },
+            {
+                "modDisplay": 0
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 98,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 515,
+                "type": 0,
+                "value": 2
+            },
+            {
+                "hideInTooltip": false,
+                "property": 19,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 0,
+                "type": 0,
+                "value": 30
+            }
+        ],
+        "setID": 6,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            },
+            {
+                "modDisplay": 1
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 0,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 260,
+                "type": 0,
+                "value": 20
+            },
+            {
+                "hideInTooltip": false,
+                "property": 0,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 257,
+                "type": 0,
+                "value": 20
+            },
+            {
+                "hideInTooltip": false,
+                "property": 98,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 68,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": false,
+                "property": 88,
+                "setRequirement": 3,
+                "specialTag": 1,
+                "tags": 209,
+                "type": 0,
+                "value": 2
+            }
+        ],
+        "setID": 7,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            },
+            {
+                "modDisplay": 1
+            },
+            {
+                "modDisplay": 2
+            },
+            {
+                "modDisplay": 3
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 58,
+                "setRequirement": 2,
+                "specialTag": 3,
+                "tags": 157,
+                "type": 0,
+                "value": 0.05
+            },
+            {
+                "hideInTooltip": true,
+                "property": 58,
+                "setRequirement": 3,
+                "specialTag": 2,
+                "tags": 120,
+                "type": 0,
+                "value": 42
+            }
+        ],
+        "setID": 8,
+        "tooltipDescriptions": [
+            {
+                "altText": "",
+                "description": "Your Summon Skeletons' spells and attacks deal +42 fire, cold or lightning damage. The element selected is your lowest elemental resistance.",
+                "setMod": false,
+                "setRequirement": 3
+            }
+        ],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            },
+            {
+                "modDisplay": 128
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 98,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 196,
+                "type": 0,
+                "value": 0.05
+            }
+        ],
+        "setID": 9,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": true,
+                "property": 98,
+                "setRequirement": 1,
+                "specialTag": 0,
+                "tags": 85,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": true,
+                "property": 58,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 195,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": true,
+                "property": 58,
+                "setRequirement": 3,
+                "specialTag": 1,
+                "tags": 195,
+                "type": 0,
+                "value": 1
+            }
+        ],
+        "setID": 10,
+        "tooltipDescriptions": [
+            {
+                "altText": "Health granted is not affected by minion healing effectiveness",
+                "description": "Storm Totem can hit allies to grant 21 health",
+                "setMod": false,
+                "setRequirement": 2
+            },
+            {
+                "altText": "",
+                "description": "Storm Totem can hit allies to grant 21 ward",
+                "setMod": false,
+                "setRequirement": 3
+            },
+            {
+                "altText": "",
+                "description": "Limited to One Active Companion",
+                "setMod": false,
+                "setRequirement": 1
+            }
+        ],
+        "tooltipEntries": [
+            {
+                "modDisplay": 130
+            },
+            {
+                "modDisplay": 128
+            },
+            {
+                "modDisplay": 129
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 47,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 0,
+                "type": 0,
+                "value": 0.72
+            },
+            {
+                "hideInTooltip": true,
+                "property": 48,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 0,
+                "type": 2,
+                "value": -1
+            },
+            {
+                "hideInTooltip": true,
+                "property": 0,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 66080,
+                "type": 0,
+                "value": 54
+            },
+            {
+                "hideInTooltip": true,
+                "property": 0,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 66592,
+                "type": 0,
+                "value": 54
+            },
+            {
+                "hideInTooltip": true,
+                "property": 98,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 92,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": true,
+                "property": 6,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 64,
+                "type": 2,
+                "value": -0.18
+            },
+            {
+                "hideInTooltip": true,
+                "property": 6,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 32,
+                "type": 2,
+                "value": -0.18
+            }
+        ],
+        "setID": 11,
+        "tooltipDescriptions": [
+            {
+                "altText": "Mark for Death is a curse that reduces all resistances by 25%.",
+                "description": "Potions no longer heal you, but instead grant +54 necrotic damage to melee and throwing attacks and mark you for death for 4 seconds.",
+                "setMod": false,
+                "setRequirement": 2
+            },
+            {
+                "altText": "Multiplicative with other modifiers",
+                "description": "18% less Poison and Necrotic Damage Taken",
+                "setMod": false,
+                "setRequirement": 3
+            }
+        ],
+        "tooltipEntries": [
+            {
+                "modDisplay": 128
+            },
+            {
+                "modDisplay": 0
+            },
+            {
+                "modDisplay": 129
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 58,
+                "setRequirement": 2,
+                "specialTag": 4,
+                "tags": 517,
+                "type": 0,
+                "value": 0.5
+            },
+            {
+                "hideInTooltip": false,
+                "property": 58,
+                "setRequirement": 3,
+                "specialTag": 0,
+                "tags": 517,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": false,
+                "property": 117,
+                "setRequirement": 3,
+                "specialTag": 4,
+                "tags": 16,
+                "type": 2,
+                "value": 0.15
+            }
+        ],
+        "setID": 12,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            },
+            {
+                "modDisplay": 2
+            },
+            {
+                "modDisplay": 1
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": true,
+                "property": 88,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 16777216,
+                "type": 0,
+                "value": 2
+            },
+            {
+                "hideInTooltip": true,
+                "property": 88,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 8192,
+                "type": 0,
+                "value": 2
+            }
+        ],
+        "setID": 13,
+        "tooltipDescriptions": [
+            {
+                "altText": "",
+                "description": "+2 to Curse Skills\n+2 to Minion Skills",
+                "setMod": false,
+                "setRequirement": 2
+            }
+        ],
+        "tooltipEntries": [
+            {
+                "modDisplay": 128
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 98,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 195,
+                "type": 0,
+                "value": 0.01
+            }
+        ],
+        "setID": 14,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 98,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 146,
+                "type": 0,
+                "value": 1
+            }
+        ],
+        "setID": 15,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 98,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 149,
+                "type": 0,
+                "value": 1
+            },
+            {
+                "hideInTooltip": false,
+                "property": 6,
+                "setRequirement": 2,
+                "specialTag": 6,
+                "tags": 32,
+                "type": 2,
+                "value": -0.35
+            }
+        ],
+        "setID": 16,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            },
+            {
+                "modDisplay": 1
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 88,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 16384,
+                "type": 0,
+                "value": 2
+            }
+        ],
+        "setID": 17,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            }
+        ]
+    },
+    {
+        "mods": [
+            {
+                "hideInTooltip": false,
+                "property": 58,
+                "setRequirement": 2,
+                "specialTag": 0,
+                "tags": 370,
+                "type": 0,
+                "value": 4
+            }
+        ],
+        "setID": 18,
+        "tooltipDescriptions": [],
+        "tooltipEntries": [
+            {
+                "modDisplay": 0
+            }
+        ]
+    }
+]

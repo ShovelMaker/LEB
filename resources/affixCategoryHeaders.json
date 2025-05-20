@@ -1,0 +1,92 @@
+[
+    {
+        "categories": [
+            0
+        ],
+        "name": "Core"
+    },
+    {
+        "categories": [
+            1,
+            2,
+            5,
+            35,
+            3,
+            4
+        ],
+        "name": "Offensive"
+    },
+    {
+        "categories": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15,
+            17,
+            38
+        ],
+        "name": "Defensive"
+    },
+    {
+        "categories": [
+            18,
+            19,
+            20,
+            21,
+            22
+        ],
+        "name": "Other"
+    },
+    {
+        "categories": [
+            23
+        ],
+        "name": "Ailments"
+    },
+    {
+        "categories": [
+            24,
+            25,
+            26,
+            27,
+            28
+        ],
+        "name": "Class Specific"
+    },
+    {
+        "categories": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            40,
+            41
+        ],
+        "name": "Idols"
+    },
+    {
+        "categories": [
+            36
+        ],
+        "name": "Experimental"
+    },
+    {
+        "categories": [
+            37
+        ],
+        "name": "Personal"
+    },
+    {
+        "categories": [
+            39
+        ],
+        "name": "Set"
+    }
+]
